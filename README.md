@@ -1,1 +1,1 @@
-# skils
+# skills
